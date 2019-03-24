@@ -36,3 +36,9 @@ slownik ['b'] = 2
 
 for i in slownik:
     print("%s %d"%(i, slownik[i]))
+
+##################################
+
+lista = ["Kebab","Hotdog","Falafel"]
+for index in range(len(lista)):
+    print(lista[index])
