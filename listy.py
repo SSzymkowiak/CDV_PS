@@ -39,7 +39,7 @@ nowa = programowanie
 print("Lista nowa: ",end="")
 print(nowa)
 
-#nowa.clear()
+##nowa.clear()
 print("Lista programowanie: ",end="")
 print(programowanie)
 print("Lista nowa: ",end="")
