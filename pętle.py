@@ -48,3 +48,21 @@ print(x)
 for i in x:
     print(i, end=" ")
     print("\n\n")
+
+###################
+#for i in range(5
+for i in range(1, 5):
+    for j in range(i):
+        print(i,end=" ")
+        print()
+
+###################
+#użytkownik podaje z klawiatury rozmiar oraz znak jaki ma być wuświetlony
+
+print("Podaj rozmiar: ")
+input()
+
+for i in range(1, 5):
+    for j in range(i):
+        print(i,end=" ")
+        print()
