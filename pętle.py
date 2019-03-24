@@ -21,3 +21,18 @@ lista = ["Jan","Anna","Paweł"]
 
 for i in lista:
     print(i)
+
+##############################
+
+text = "Janusz"
+for i in text:
+    print(i)
+
+##############################
+
+slownik = dict()
+slownik['a'] = 1
+slownik ['b'] = 2
+
+for i in slownik:
+    print("%s %d"%(i, slownik[i]))

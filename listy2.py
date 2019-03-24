@@ -24,3 +24,4 @@ print(ososba["imie"])
 print(osoba.keys())
 print(osoba.get("wzrost", NULL))
 print(osobs.get("naziwsko", NULL))
+#
