@@ -42,3 +42,9 @@ for i in slownik:
 lista = ["Kebab","Hotdog","Falafel"]
 for index in range(len(lista)):
     print(lista[index])
+
+x = range(6)
+print(x)
+for i in x:
+    print(i, end=" ")
+    print("\n\n")
