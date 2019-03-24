@@ -60,9 +60,3 @@ for i in range(1, 5):
 #użytkownik podaje z klawiatury rozmiar oraz znak jaki ma być wuświetlony
 
 print("Podaj rozmiar: ")
-input()
-
-for i in range(1, 5):
-    for j in range(i):
-        print(i,end=" ")
-        print()
