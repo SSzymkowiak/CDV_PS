@@ -3,6 +3,6 @@ import math
 pi = math.pi
 print(pi)
 
-#pierwiastek
+##pierwiastek
 pierwiastek = math.sqrt(9)
 print(pierwiastek)
