@@ -19,3 +19,5 @@ print(find_fib_num_rec(10))
 
 start = time.process_time()
 print(find_fib_num_rec(10))
+stop = time.process_time()
+print(f'Czas wykonania funkcji *find_fib_num_rec* wynosi: (stop - start)')
