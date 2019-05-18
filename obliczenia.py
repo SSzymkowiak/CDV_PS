@@ -3,3 +3,6 @@ def potega(podstawa, wykladnik)
         return 1
     else:
         return podstawa * potega(podstawa, wykladnik - 1)
+
+    print(potega(3,3))
+
