@@ -20,3 +20,17 @@ wyswietlArgs(*names)
 import os
 os.system('cls')
 
+############# kwargs ###############
+
+def pracownik(**kwargs):
+    for key, val in kwargs.items()
+        print(f'Klucz (key)')
+
+    pracownik1 = (
+        'name':'Janusz',
+        'age':20,
+        'city':'Poznań',
+        'job':True
+    )
+
+    pracownik(**pracownik1)
